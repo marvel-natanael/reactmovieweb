@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #203541;
+  font-family: "Poppins";
+  font-size: 22px;
+  color: white;
+}
+
+.head {
+  background: #203541;
+}
+
+.movie-list a {
+  color: white;
+  text-decoration: none;
+}
+
+.movie-list a:hover {
+  color: white;
+}
+
+.movie-list p {
+  background-color: #ee2b47;
+  border-radius: 0px 0px 24px 24px;
+}
+
+.detail-jumbotron {
+  height: 600px;
+  object-fit: cover;
+}
